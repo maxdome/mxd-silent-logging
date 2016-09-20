@@ -1,4 +1,4 @@
-# example
+# Example
 
 ```
 const logging = require('mxd-silent-logging')(config);
