@@ -1,7 +1,7 @@
 {
   "name": "mxd-silent-logging",
   "description": "Returns configured winston logger instances without any transports",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "http://github.com/maxdome/silent-logging",
   "readmeFilename": "README.md",
   "main": "src/lib.js",
